@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (14.05.24.vcxproj, Server.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  14.05.24.cpp
+  14.05.24.vcxproj -> C:\Users\mvino\source\repos\14.05.24\x64\Debug\Client.exe
